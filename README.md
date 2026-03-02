@@ -1,2 +1,4 @@
 # samuel-muriithi
-# Information Architect # Semantic Web and #Ontology Engineering."
+## Information Architect
+## Semantic Web
+## Ontology Engineering
